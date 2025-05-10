@@ -1,11 +1,11 @@
 [package]
-name = "axum-oidc"
-description = "A wrapper for the openidconnect crate for axum"
+name = "notbot-axum-oidc"
+description = "A hack to work around crates.io publishing requirements. You probably should use the original instead."
 version = "0.6.0"
 edition = "2021"
-authors = [ "Paul Z <info@pfz4.de>" ]
+authors = ["Ari Gato <ari@is-a.cat>"]
 readme = "README.md"
-repository = "https://github.com/pfz4/axum-oidc"
+repository = "https://github.com/arachnist/axum-oidc"
 license = "LGPL-3.0-or-later"
 keywords = [ "axum", "oidc", "openidconnect", "authentication" ]
 

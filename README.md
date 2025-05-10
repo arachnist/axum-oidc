@@ -1,3 +1,9 @@
+# Do not use
+
+This repository exists only because crates.io doesn't support `git` dependencies.
+
+# Original readme
+
 This Library allows using [OpenID Connect](https://openid.net/developers/how-connect-works/) with [axum](https://github.com/tokio-rs/axum). 
 It authenticates the user with the OpenID Connect Issuer and provides Extractors.
 
